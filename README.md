@@ -1,7 +1,11 @@
-DDigital Literacy Project
+Digital Literacy Project
+
 Name: Aditya Kumar Sharma
+
 Reg No.--> 25BCY10101
+
 Course: B.Tech CSE
+
 University: VIT Bhopal
 
 Project Overview
